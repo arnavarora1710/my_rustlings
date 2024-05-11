@@ -1,5 +1,3 @@
-Attempting the Rustling exercises to get used to reading and writing Rust code... Planning to use this as a stepping stone for OpenGL graphic programming stuff, backend and ML optimizations!
-
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
